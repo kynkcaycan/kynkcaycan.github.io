@@ -1,7 +1,6 @@
 
 import Homepage from "./pages/homepage/Homepage";
 
-import Settings from "./pages/settings/Settings";
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
